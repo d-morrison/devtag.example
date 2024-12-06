@@ -7,6 +7,9 @@ NULL
 #' @param y numeric
 #'
 #' @export
+#' @examples
+#' add(1, 2)
+#'
 add <- function(x, y) {
   x + y
 }
@@ -15,6 +18,8 @@ add <- function(x, y) {
 #'
 #' @param x numeric
 #' @param y numeric
+#' @examples
+#' devtag.example:::subtract(1,3)
 #' @dev
 subtract <- function(x, y) {
   x - y
