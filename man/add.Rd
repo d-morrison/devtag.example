@@ -14,3 +14,7 @@ add(x, y)
 \description{
 add
 }
+\examples{
+add(1, 2)
+
+}

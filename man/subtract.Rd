@@ -15,6 +15,6 @@ subtract(x, y)
 subtract
 }
 \examples{
-subtract(1,3)
+devtag.example:::subtract(1,3)
 }
 \keyword{internal}
