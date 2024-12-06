@@ -15,6 +15,8 @@ add <- function(x, y) {
 #'
 #' @param x numeric
 #' @param y numeric
+#' @examples
+#' subtract(1,3)
 #' @dev
 subtract <- function(x, y) {
   x - y

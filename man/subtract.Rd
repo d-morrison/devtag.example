@@ -14,4 +14,7 @@ subtract(x, y)
 \description{
 subtract
 }
+\examples{
+subtract(1,3)
+}
 \keyword{internal}
